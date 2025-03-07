@@ -2,13 +2,13 @@
 
 # 👋 Nice to meet you! I'm My Pham, A Software Engineer 👋🏼
 
-      🎓 I'm currently studying Data Science and Artificial Intelligence at VKU.
-      👨🏼‍💻 My expertise lies in Backend Development, especially with Spring and .NET.
-      🚀 Beyond that, I have a solid understanding of AI, Data, Cloud & DevOps, Unity, and more.
+      🎓 I'm currently studying Data Science and Artificial Intelligence at VKU
+      👨🏼‍💻 My expertise in Backend Development, especially with Spring and .NET
+      🚀 Beyond that, I have a solid understanding of AI, Data, Cloud & DevOps, Unity, and more...
 
 # 💻 Tech Stack
 
-### 🚀 Languages
+## 🚀 Languages
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -26,7 +26,7 @@
 </p>
 
 
-### ⚙️ Backend Technologies
+## ⚙️ Backend Technologies
 
 <p align="left">  
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
@@ -115,19 +115,19 @@
 
 <p align="left">  
 
+  <a href="mailto:thanhmy17082001@gmail.com">  
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40"/>  
+  </a> <span><strong>&nbsp;Email:</strong> <a href="mailto:thanhmy17082001@gmail.com">thanhmy17082001@gmail.com</a></span>
+  <br/><br/>
+
   <a href="https://www.linkedin.com/in/my-pham-34089a353/" target="_blank">  
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" height="40" width="40"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="40" width="40"/>  
   </a> <span><strong>&nbsp;LinkedIn:</strong> <a href="https://www.linkedin.com/in/my-pham-34089a353/" target="_blank">&nbsp;Click here✌️</a></span>  
   <br/><br/>
   
   <a href="https://leetcode.com/mypv1708/" target="_blank">  
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40"/>  
   </a> <span><strong>&nbsp;LeetCode:</strong> <a href="https://leetcode.com/mypv1708/" target="_blank">Click here✌️</a></span>  
-  <br/><br/>
-  
-  <a href="mailto:thanhmy17082001@gmail.com">  
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40"/>  
-  </a> <span><strong>&nbsp;Email:</strong> <a href="mailto:thanhmy17082001@gmail.com">thanhmy17082001@gmail.com</a></span>
   <br/><br/>
 
   <a href="https://www.facebook.com/kin.tu.87804/" target="_blank">  
